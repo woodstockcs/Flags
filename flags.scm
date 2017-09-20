@@ -1,7 +1,6 @@
 #|
 
 YourFullName
-YourGithubUsername
 AssignmentName
 CurrentMonth CurrentYear
 
